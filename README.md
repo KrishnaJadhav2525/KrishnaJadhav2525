@@ -33,32 +33,31 @@
 
 ```python
 class KrishnaJadhav:
+    """
+    Passionate Full Stack Developer from India 🇮🇳
+    Turning complex problems into elegant solutions.
+    """    
     def __init__(self):
-        self.location = "India 🇮🇳"
+        self.username = "KrishnaJadhav2525"
         self.education = "Computer Science Graduate"
-        self.currently_learning = ["Web Development", "Cloud Technologies", "System Design"]
-        self.looking_for = "Full Stack Developer roles where I can build impactful applications"
+        self.stack = ["React", "Node.js", "MongoDB", "TypeScript"]
+        self.passion = ["Building Scalable Systems", "Clean Code"]
         
-    def get_current_work(self):
+    @property
+    def current_status(self):
         return {
-            "role": "Full Stack Developer",
-            "building": [
-                "Scalable web applications",
-                "RESTful APIs & microservices",
-                "Responsive user interfaces"
-            ],
-            "tech_stack": ["React", "Node.js", "MongoDB", "TypeScript"]
+            "Work": "Building intuitive web applications",
+            "Learning": ["Cloud Native Architecture", "System Design"],
+            "Looking For": "Challenging Full Stack roles"
         }
-    
-    def get_story(self):
+        
+    def my_journey(self):
         return """
-        Passionate about turning ideas into reality through code.
+        Started with a curiosity for how things work → Evolved into building 
+        robust systems that solve real-world problems.
         
-        Started with curiosity → Built projects to solve real problems
-        → Now focused on creating scalable, user-centric applications
-        that make a difference.
-        
-        💡 I don't just write code. I build solutions.
+        I believe in writing clean code and building user-centric products.
+        Always learning, always growing. 🚀
         """
 ```
 
@@ -142,16 +141,7 @@ class KrishnaJadhav:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=KrishnaJadhav2525&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" />
-    <img src="https://github-profile-trophy.vercel.app/?username=KrishnaJadhav2525&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
-  </picture>
-</div>
-
----
 
 <div align="center">
 
