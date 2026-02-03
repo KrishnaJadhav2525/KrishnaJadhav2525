@@ -31,22 +31,35 @@
 
 ## 🎯 About Me
 
-```yaml
-name: Krishna Jadhav
-role: Full Stack Developer
-location: India
-education: Computer Science
-
-current_focus:
-  - Building scalable web applications
-  - Exploring cloud-native architectures
-  - Contributing to open-source projects
-
-core_competencies:
-  - Backend Systems & REST API Design
-  - Performance Optimization
-  - Responsive UI Development
-  - Agile & CI/CD Pipelines
+```python
+class KrishnaJadhav:
+    def __init__(self):
+        self.location = "India 🇮🇳"
+        self.education = "Computer Science Graduate"
+        self.currently_learning = ["Web Development", "Cloud Technologies", "System Design"]
+        self.looking_for = "Full Stack Developer roles where I can build impactful applications"
+        
+    def get_current_work(self):
+        return {
+            "role": "Full Stack Developer",
+            "building": [
+                "Scalable web applications",
+                "RESTful APIs & microservices",
+                "Responsive user interfaces"
+            ],
+            "tech_stack": ["React", "Node.js", "MongoDB", "TypeScript"]
+        }
+    
+    def get_story(self):
+        return """
+        Passionate about turning ideas into reality through code.
+        
+        Started with curiosity → Built projects to solve real problems
+        → Now focused on creating scalable, user-centric applications
+        that make a difference.
+        
+        💡 I don't just write code. I build solutions.
+        """
 ```
 
 ---
@@ -107,23 +120,18 @@ core_competencies:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KrishnaJadhav2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KrishnaJadhav2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KrishnaJadhav2525&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=KrishnaJadhav2525&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-  </picture>
+  <a href="https://github.com/KrishnaJadhav2525">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KrishnaJadhav2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KrishnaJadhav2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaJadhav2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaJadhav2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages"/>
-  </picture>
+  <a href="https://github.com/KrishnaJadhav2525">
+    <img src="https://github-readme-streak-stats-nine-rho.vercel.app/?user=KrishnaJadhav2525&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B35&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <br/>
