@@ -31,18 +31,23 @@
 
 ## 🎯 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding"/>
+```yaml
+name: Krishna Jadhav
+role: Full Stack Developer
+location: India
+education: Computer Science
 
-I'm a **Full Stack Developer** with a passion for building robust, scalable applications that make a difference. I specialize in modern JavaScript ecosystems and love turning complex problems into elegant solutions.
+current_focus:
+  - Building scalable web applications
+  - Exploring cloud-native architectures
+  - Contributing to open-source projects
 
-**What I bring to the table:**
-
-- 🏗️ **Architecture** – Designing scalable backend systems & REST APIs
-- ⚡ **Performance** – Optimizing applications for speed & efficiency  
-- 🎨 **UI/UX** – Creating intuitive, responsive user interfaces
-- 🔄 **Agile** – Experienced in agile methodologies & CI/CD pipelines
-
-<br clear="right"/>
+core_competencies:
+  - Backend Systems & REST API Design
+  - Performance Optimization
+  - Responsive UI Development
+  - Agile & CI/CD Pipelines
+```
 
 ---
 
@@ -102,14 +107,23 @@ I'm a **Full Stack Developer** with a passion for building robust, scalable appl
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KrishnaJadhav2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KrishnaJadhav2525&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KrishnaJadhav2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KrishnaJadhav2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KrishnaJadhav2525&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=KrishnaJadhav2525&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KrishnaJadhav2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaJadhav2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaJadhav2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages"/>
+  </picture>
 </div>
 
 <br/>
@@ -120,10 +134,13 @@ I'm a **Full Stack Developer** with a passion for building robust, scalable appl
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KrishnaJadhav2525&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=KrishnaJadhav2525&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KrishnaJadhav2525&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+  </picture>
 </div>
 
 ---
