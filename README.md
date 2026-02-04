@@ -117,6 +117,16 @@ class KrishnaJadhav:
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KrishnaJadhav2525&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="KrishnaJadhav2525" />
+  </a>
+</div>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -124,11 +134,7 @@ class KrishnaJadhav:
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KrishnaJadhav2525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KrishnaJadhav2525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
   <a href="https://github.com/KrishnaJadhav2525">
     <img src="https://github-readme-streak-stats-nine-rho.vercel.app/?user=KrishnaJadhav2525&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B35&currStreakLabel=6366F1" alt="GitHub Streak"/>
   </a>
