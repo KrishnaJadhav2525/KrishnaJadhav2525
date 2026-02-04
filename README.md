@@ -182,49 +182,6 @@ class KrishnaJadhav:
 
 ---
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/KrishnaJadhav2525">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaJadhav2525&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-</a>
-
-<a href="https://github.com/KrishnaJadhav2525">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaJadhav2525&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-</a>
-
-</div>
-
-<div align="center">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaJadhav2525&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
-
-</div>
-
-<div align="center">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
@@ -338,9 +295,6 @@ graph LR
 <br/>
 
 <div align="center">
-
-<!-- Footer with animated wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <p>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
