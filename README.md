@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header with Gradient Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Krishna%20Jadhav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20%26%20Data%20Engineer&descAlignY=55&descSize=20"/>
+<!-- Professional Header with Animation -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Krishna%20Jadhav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20%26%20Data%20Engineer&descAlignY=60&descSize=22" width="100%"/>
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
@@ -262,16 +262,13 @@ graph LR
 
 <div align="center">
 
-### 💖 Show Some Love
+### 🤝 Open to Opportunities
 
-<p>If you like my work, consider:</p>
-
-[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/)
-
-<br/>
-
-**⭐ Star my repos if you find them useful!**
+<p>
+  <i>Interested in collaborating on innovative projects or discussing opportunities in Full Stack Development, AI, and Data Engineering.</i>
+  <br/>
+  <i>Feel free to reach out through LinkedIn or email.</i>
+</p>
 
 </div>
 
