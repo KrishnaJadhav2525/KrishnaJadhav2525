@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krishna%20Jadhav&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Engineer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Krishna%20Jadhav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20%26%20Data%20Engineer&descAlignY=55&descSize=20"/>
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
@@ -28,13 +28,6 @@
 
 <!-- Animated Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=KrishnaJadhav2525&style=for-the-badge&color=6366F1&label=Profile+Views" alt="Profile Views"/>
-
-<!-- Snake Animation eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaJadhav2525/KrishnaJadhav2525/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaJadhav2525/KrishnaJadhav2525/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KrishnaJadhav2525/KrishnaJadhav2525/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -136,16 +129,6 @@ class KrishnaJadhav:
 </div>
 
 ---
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KrishnaJadhav2525&theme=algolia&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7&rank=-C,-?&title=MultiLanguage,Commits,PullRequest,Reviews,Issues,Repositories,Stars" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
 
 ## 📊 GitHub Statistics
 
