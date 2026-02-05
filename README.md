@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Wave Animation Header with Name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Krishna%20Jadhav&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20%26%20Data%20Engineer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Krishna%20Jadhav&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20%26amp;%20Data%20Engineer&descAlignY=55&descSize=20"/>
 
 <br/>
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+web+applications+%F0%9F%9A%80;Transforming+data+into+actionable+insights+%F0%9F%93%8A;Passionate+about+clean+code+%E2%9C%A8;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+web+applications+%F0%9F%9A%80;Transforming+data+into+actionable+insights+%F0%9F%93%8A;Passionate+about+clean+code+%E2%9C%A8;AI+%26amp;+Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
