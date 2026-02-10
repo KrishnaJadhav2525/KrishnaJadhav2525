@@ -34,21 +34,22 @@
 ```python
 class KrishnaJadhav:
     """
-    Passionate Full Stack Developer from India 🇮🇳
-    Turning complex problems into elegant solutions.
+    Passionate Full Stack Developer & AI Enthusiast from India 🇮🇳
+    Bridging Web Development with Data Analytics & Machine Learning.
+    Turning complex data into insights and elegant solutions.
     """    
     def __init__(self):
         self.username = "KrishnaJadhav2525"
         self.education = "Computer Science Graduate"
-        self.stack = ["React", "Node.js", "MongoDB", "TypeScript"]
-        self.passion = ["Building Scalable Systems", "Clean Code"]
+        self.stack = ["Full Stack Web", "Data Analytics", "Python/AI", "Machine Learning"]
+        self.passion = ["Building Intelligent Systems", "Data Science", "Clean Code"]
         
     @property
     def current_status(self):
         return {
-            "Work": "Building intuitive web applications",
-            "Learning": ["Cloud Native Architecture", "System Design"],
-            "Looking For": "Challenging Full Stack roles"
+            "Work": "Building AI-powered web applications",
+            "Learning": ["Deep Learning", "Advanced Data Analytics", "LLMs"],
+            "Looking For": "Data Science & AI Engineering roles"
         }
         
     def my_journey(self):
