@@ -137,7 +137,11 @@ class KrishnaJadhav:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaJadhav2525&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" width="98%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaJadhav2525/KrishnaJadhav2525/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaJadhav2525/KrishnaJadhav2525/output/github-contribution-grid-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/KrishnaJadhav2525/KrishnaJadhav2525/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -163,6 +167,6 @@ class KrishnaJadhav:
 <br/>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
