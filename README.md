@@ -123,6 +123,24 @@ class KrishnaJadhav:
 
 </div>
 
+</div>
+
+<br/>
+
+## 🚀 Projects
+
+<div align="center">
+
+| **Project** | **Description** | **Tech Stack** |
+| :--- | :--- | :--- |
+| **Binance Futures Trading Bot** | Automated trading bot for Binance Futures Testnet. Executes strategies based on market data. | Python, Binance API, Pandas |
+| **AI Video Generation Pipeline** | Automated pipeline to generate videos from text prompts using AI tools. | Python, n8n, Gemini/Groq, Edge TTS, MoviePy |
+| **ResumeFit** | [In Development] AI-powered resume optimization tool to match job descriptions. | React, Node.js, AI Integration |
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <!-- Animated Divider -->
@@ -240,6 +258,7 @@ graph LR
   <a href="https://www.linkedin.com/in/krishna-jadhav-a5122a316/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <!-- 
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
@@ -249,6 +268,7 @@ graph LR
   <a href="https://stackoverflow.com/" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
+  -->
 </p>
 
 </div>
